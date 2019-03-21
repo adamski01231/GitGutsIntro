@@ -9,3 +9,7 @@ Nie ma żadnych.
 ## Licencja
 
 MIT.
+
+# Autor
+
+Adam Radwański
