@@ -13,4 +13,4 @@ CC
 
 # Autor
 
-Adam Radwański
+Adam Radwański - ten projekt jest tworzony przeze mnie.
