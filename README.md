@@ -18,3 +18,5 @@ Adam Radwański - ten projekt jest tworzony przeze mnie.
 # Koniec
 
 To już ostatnie zadanie
+
+Dziękuję.
