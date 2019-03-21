@@ -9,7 +9,7 @@ Nodejs v8.3
 
 ## Licencja
 
-Apache Commons 2.
+Apache Commons 2 jest lepsza od innych.
 
 # Autor
 
